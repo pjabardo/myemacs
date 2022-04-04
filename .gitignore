@@ -1,0 +1,9 @@
+/Manifest.toml
+/docs/build/
+*~
+*.elc
+history
+ehsell
+auto-save-list
+places
+recentf
